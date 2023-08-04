@@ -8,6 +8,9 @@
                 "br"
             ]
         },
-        "MD025": false
+        "MD025": false,
+        "MD026": {
+            "punctuation": ".,;:。，；：！"
+        }
     }
 }
